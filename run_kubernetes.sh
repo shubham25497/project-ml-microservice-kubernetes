@@ -5,7 +5,7 @@
 # Step 1:
 # This is your Docker ID/path
 # dockerpath=<>
-dockerpath=Shubham25497/project-ml-microservice-kubernetes
+dockerpath=shubham25497/project-ml-microservice-kubernetes
 
 # Step 2
 # Run the Docker Hub container with kubernetes
