@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath=Shubham25497/project-ml-microservice-kubernetes
+dockerpath=shubham25497/project-ml-microservice-kubernetes
 dockertag=latest
 
 # Step 2:  
