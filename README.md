@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/xia0m/project-ml-microservice-kubernetes-final.svg?style=svg)](shubham25497/project-ml-microservice-kubernetes-final)
+
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
